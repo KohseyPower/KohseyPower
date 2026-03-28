@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kohsey</h1>
 <h3 align="center">currently a student at Télécom SudParis</h3>
 
- 📫 How to reach me **kohsey.dufour@gmail.com**
+<a href="https://kohsey.ovh" target="blank">My site</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
