@@ -1,2 +1,3 @@
-<h1 align="center">Hi 👋, I'm Kohsey</h1>
-<h3 align="center">currently a student at Télécom SudParis</h3>
+# Hi 👋, I'm Kohsey
+
+### Student at [Télécom SudParis](https://www.telecom-sudparis.eu) · Working at [Ekilog](https://www.ekilog.fr)
